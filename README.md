@@ -1,7 +1,7 @@
 ### Hello, World!  Gil here <img src="https://media.tenor.com/kzMUk2-LgL8AAAAi/welcome.gif" width="45px"> <br>
 
 <p align="center">
-  <img src="https://github.com/gilguim36/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
+  <img src="https://github.com/gilvector/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 
 <div align="center">
@@ -50,11 +50,11 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
         <tr>
 	<h4>Data Science and AI Projects (English)</h4>
 	    <td>		
-		<a href="https://gist.github.com/gilguim36"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
+		<a href="https://gist.github.com/gilvector"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
 		<p align="center">Gists</p>
             </td>
             <td>		
-		<a href="https://github.com/gilguim36/data-science/blob/master/stock_price_s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
+		<a href="https://github.com/gilvector/data-science/blob/master/stock_price_s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
 		<p align="center">S&P500</p>
             </td>
 	    <td>		
@@ -79,11 +79,11 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
         <tr>
 	<h4>Data Science Projects (Portuguese)</h4>
             <td>		
-		<a href="https://github.com/gilguim36/data-science/tree/master/api_camara_deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
+		<a href="https://github.com/gilvector/data-science/tree/master/api_camara_deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
 		<p align="center">Congress API</p>
             </td>
             <td>
-		<a href="https://github.com/gilguim36/data-science/tree/master/api_futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
+		<a href="https://github.com/gilvector/data-science/tree/master/api_futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
 		<p align="center">Soccer API</p>
             </td>
         </tr>
@@ -159,15 +159,15 @@ for connect_with_me in social_network:
 
 Output:
 ```
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilguim36/en)<br>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/gilguim36/)<br>
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gilguim36)<br>
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gilguim36)<br>
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gilguim36)<br>
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gilguim36)<br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilvector/en)<br>
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/gilvector/)<br>
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gilvector)<br>
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gilvector)<br>
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gilvector)<br>
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gilvector)<br>
 
 Let's connect! 😁✌ <br>
 
 **Check my Repos and Remember to Give a Star!** <br>
 
-:star: From [gilguim36](https://github.com/gilguim36)
+:star: From [gilvector](https://github.com/gilvector)
