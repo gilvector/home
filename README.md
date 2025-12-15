@@ -1,5 +1,5 @@
 ### Hello, World!  Gil here <img src="https://media.tenor.com/kzMUk2-LgL8AAAAi/welcome.gif" width="45px"> <br>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=gilvectortheme=onedark)](https://github.com/gilvector/github-profile-trophy)
 <p align="center">
   <img src="https://github.com/gilvector/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
