@@ -4,7 +4,7 @@
   <img src="https://github.com/gilvector/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 	
-I am a Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science and AI field. :wink:
+I am a Business Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science and AI field. :wink:
  
 ---
 
