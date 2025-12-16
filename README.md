@@ -4,16 +4,6 @@
   <img src="https://github.com/gilvector/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 	
-<div align="center">
-    <table>
-        <tr>            
-	    	<td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvector&layout=compact"/>                
-            </td>
-        </tr>   
-    </table>
-</div>
-
 I am a Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science and AI field. :wink:
  
 ---
