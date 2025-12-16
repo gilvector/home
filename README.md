@@ -8,19 +8,19 @@ I am a Business Data Science and Data Analysis explorer who is in constant evolu
  
 ---
 
-<h3> At the Moment... 🚀 </h3>
+<h3> At the moment, the vector is this: 🚀 </h3>
 
-🎯 I’m working on **AI and Public Health Program** project <br>
+🎯 AI and Business. **Data as critical infrastructure.** <br>
  
-:books: I’m a data scientist post-graduated 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
+:books: Postgraduate in Data Science 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) Foundation for systems, not a diploma. <br>
  
-😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"> Data Science <br>
+😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"> IBM Data Science Professional Certificate. <br>
  
-💪 I like <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
+💪 I like <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform as engine.** <br>
  
-🙋‍♂️ I’m collaborating for **Data Science and AI based projects** <br>
+🙋‍♂️ Only projects with **Data Science and AI at the core.** Serious questions. Real consequences. <br>
   
-💬 Ask me about Data Analysis, Data Science, AI, and any tech-related stuff <br>
+💬 Talk about Data, Data Science, AI, and tech. To build systems. Not to kill curiosity. <br>
  
 ---
 
